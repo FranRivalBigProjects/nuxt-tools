@@ -1,0 +1,1 @@
+const res=document.getElementById('res');function run(){res.innerText='Static pages: '+(code.value.match(/generate/g)||[]).length;}

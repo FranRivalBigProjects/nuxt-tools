@@ -1,0 +1,1 @@
+const res=document.getElementById('res');function run(){res.innerText='Hydration issues: '+(code.value.match(/mismatch/g)||[]).length;}

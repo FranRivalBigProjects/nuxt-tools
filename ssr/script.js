@@ -1,0 +1,1 @@
+const res=document.getElementById('res');function run(){res.innerText='SSR calls: '+(code.value.match(/asyncData|fetch/g)||[]).length;}

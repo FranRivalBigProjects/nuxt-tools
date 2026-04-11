@@ -1,0 +1,1 @@
+const res=document.getElementById('res');function run(){res.innerText='Fetch calls: '+(code.value.match(/fetch/g)||[]).length;}

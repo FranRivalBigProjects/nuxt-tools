@@ -1,0 +1,1 @@
+const res=document.getElementById('res');function run(){res.innerText='Routes: '+(code.value.match(/pages|routes/g)||[]).length;}

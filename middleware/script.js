@@ -1,0 +1,1 @@
+const res=document.getElementById('res');function run(){res.innerText='Middleware: '+(code.value.match(/middleware/g)||[]).length;}
